@@ -1,0 +1,32 @@
+{
+  "name": "browser-library-development-template",
+  "version": "0.1.0",
+  "description": "Basic browser library template",
+  "main": ,
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+      "grunt": "~0.4.0",
+      "grunt-contrib-coffee": "~0.4.0",
+      "grunt-contrib-watch": "~0.2.0",
+      "testacular": "~0.5.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "browser",
+    "development",
+    "coffeescript",
+    "mocha",
+    "testacular",
+    "tdd"
+  ],
+  "author": "aelr",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
